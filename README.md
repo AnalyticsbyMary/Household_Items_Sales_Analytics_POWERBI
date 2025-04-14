@@ -25,17 +25,17 @@ Key Columns:
 
 ## Provided Questions for Leadership
 For the Chief Executive Officer (CEO)
-1. Which regions or customer segments contribute the most to total sales?
-2. How does revenue fluctuate on a monthly basis, and which months experienced the highest growth or decline?
-3. Which months contributed the most to total revenue, and do sales patterns indicate any seasonal trends?
-4. Who are the highest-spending customers, and what percentage of total revenue do they contribute? Does the business rely heavily on a few key customers, or is revenue more evenly 
+1. What is the total revenue generated in the given period?
+2. Which months contributed the most to total revenue, and do sales patterns indicate any seasonal trends?
+3. Which country generates the highest revenue, and how does revenue distribution vary by region?
+5. Who are the highest-spending customers, and what percentage of total revenue do they contribute? Does the business rely heavily on a few key customers, or is revenue more evenly 
    distributed across a diverse customer base?
 
    For the Chief marketing Officer (CMO)
-1. What proportion of customers place repeat orders, and do they tend to reorder the same products or try different ones?
-2. How much time typically passes before repeat customers place their next order after receiving their previous one?
-3. How much revenue comes from customers who have made multiple purchases?
-4. Which customers have placed the most repeat orders, and what is their contribution to total revenue?
+1. What proportion of customers place repeat orders?
+2. How much revenue comes from customers who have made multiple purchases?
+3. Which days of the week do we have more sales?
+4. What is the perfromance summary of top customers?
 
 ## Power BI Concepts Applied
    While working on this project, I utilized several Power BI features to create a dynamic and interactive dashboard.
@@ -48,9 +48,25 @@ For the Chief Executive Officer (CEO)
 
 🔹 Interactive Filters & Slicers – Enabled drill-down analysis.
 
-🔹 Time Intelligence Functions – Analyzed monthly revenue trends, seasonality in sales, and year-over-year growth.
+🔹 Time Intelligence Functions – Analyzed monthly revenue trends
 
 🔹 Visualizations – Used bar charts, line charts, and KPI indicators to highlight top-performing products,e.t.c.
 
 🔹 Geographical Insights – Mapped revenue distribution across different countries to identify strong and weak market regions.
 
+## Visualization
+
+
+Sales Performance
+.
+The Consumer segment is leading in revenue contribution.
+Category & Sub-Category Breakdown
+Technology is the highest-grossing category.
+
+Phones, Chairs, Binders, Storage, and Copiers are the top 5 best-selling sub-categories.
+
+
+
+Regional Sales Performance
+The West region saw the highest growth (+33.4%).
+The South region also performed well with a 31.3% increase in sales.
