@@ -27,7 +27,7 @@ An household item online retail store dataset with the following key columns
 
 🔹Country – Country where the transaction occurred
 
-## Questions I wanted to answe
+## Questions to be Answered
 For Sales Performance
 1. How has revenue changed over time, and are there any noticeable trends or seasonal patterns?
 2. Which products and countries contribute the most to overall revenue?
@@ -44,8 +44,6 @@ For customer insights
    While working on this project, I utilized several Power BI features to create a dynamic and interactive dashboard.
 
 🔹 Power Query – Cleaned and transformed raw transaction data for accurate analysis.
-
-🔹 Data Modeling – Established relationships between different fields to enable insightful visualizations.
 
 🔹 DAX (Data Analysis Expressions) – Created custom measures for key metrics like total revenue, average order value, repeat purchase rate.
 
