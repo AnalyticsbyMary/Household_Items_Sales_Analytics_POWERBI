@@ -2,7 +2,7 @@
 ![board](https://github.com/user-attachments/assets/106894ed-d8d2-4af0-ab92-86fa040a34b9)
 
 ## Introduction
-As part of the Tata job simulation participant on Forage, I undertook the challenge of creating impactful data visualizations to aid business decision making. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for the upcoming year.
+I undertook the challenge of creating impactful data visualizations to aid business decision making. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for the upcoming year.
 
 ## About the Dataset
 An online retail store dataset which consists of 541,910 rows and 8 columns was provided for exploration. I
