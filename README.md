@@ -1,5 +1,6 @@
 # HOUSEHOLS ITEMS SALES PERFORMANCE & CUSTOMER INSIGHT ANALYSIS 
-![board](https://github.com/user-attachments/assets/106894ed-d8d2-4af0-ab92-86fa040a34b9)
+![household](https://github.com/user-attachments/assets/4380f363-c094-4609-8a4a-a9207844e45a)
+
 
 ## Introduction
 I undertook the challenge of creating impactful data visualizations to aid business decision making. My goal was simple to dig into the numbers and understand what truly drives revenue and customer behavior in an online retail business. Using Power BI, I built two connected dashboards: one that zooms in on sales performance, and another that uncovers customer insights and segmentation.
