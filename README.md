@@ -1,4 +1,4 @@
-# HouseHold Items Retail Sales Performance & Customer Insight Analysis 
+# HOUSEHOLS ITEMS SALES PERFORMANCE & CUSTOMER INSIGHT ANALYSIS 
 ![board](https://github.com/user-attachments/assets/106894ed-d8d2-4af0-ab92-86fa040a34b9)
 
 ## Introduction
