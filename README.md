@@ -65,7 +65,7 @@ Geographic Focus: Prioritize UK and launch geo-targeted campaigns and product lo
 Customer Retention: Strengthen loyalty programs for repeat customers.
 Capitalize on Peak Months and stock up on inventory for popular items.
 
-This project provided has successfully provided valuable insights into both the sales performance and customer behavior of the business. From the analysis, it's clear that while revenue is strong, the major driving force behind it is repeat customers. This shows the importance of customer retention and highlights how loyal customers are contributing significantly to the business's success.
+This project successfully provided valuable insights into both the sales performance and customer behavior of the business. From the analysis, it's clear that while revenue is strong, the major driving force behind it is repeat customers. This shows the importance of customer retention and highlights how loyal customers are contributing significantly to the business's success.
 
 ![2025](https://github.com/user-attachments/assets/fad7ee55-556c-474d-8d1b-5a4f0fc8fc8c)
 
